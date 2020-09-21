@@ -1326,7 +1326,10 @@ mark,
 .text-muted {
   color: #777;
 }
-.text-muted-andres {
+.text-black {
+  color: #000000;
+}
+.text-white {
   color: #000000;
 }
 .text-primary {
