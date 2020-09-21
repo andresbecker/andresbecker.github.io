@@ -1327,10 +1327,10 @@ mark,
   color: #777;
 }
 .text-muted-andres {
-  color: #7d7d7d;
+  color: #000000;
 }
 .text-primary {
-  color: #000000;
+  color: #337ab7;
 }
 a.text-primary:hover {
   color: #286090;
