@@ -1323,8 +1323,11 @@ mark,
 .text-capitalize {
   text-transform: capitalize;
 }
-.text-muted {
+/*.text-muted {
   color: #777;
+}*/
+.text-muted {
+  color: #f01abb;
 }
 .text-primary {
   color: #337ab7;
