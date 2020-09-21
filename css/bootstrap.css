@@ -1332,6 +1332,9 @@ mark,
 .text-white {
   color: #FFFFFF;
 }
+.text-grey {
+  color: grey;
+}
 .text-primary {
   color: #337ab7;
 }
