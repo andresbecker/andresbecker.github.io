@@ -11,4 +11,4 @@ github_username: andresbecker
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
