@@ -1,0 +1,19 @@
+/*!
+ * Custom Styles
+ * Andres Becker
+ * 16.07.21
+*/
+
+.bg-gray {
+  color: #fff;
+  background-color: #5a5a5a;
+  background-image: none;
+}
+a.bg-gray:hover {
+  background-color: #4d4d4d;
+}
+.bg-black {
+  color: #fff;
+  background-color: #000000;
+  background-image: none;
+}
