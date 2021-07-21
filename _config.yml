@@ -7,12 +7,31 @@ author:
   github: https://github.com/andresbecker
   github_username: andresbecker
 
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    # twitter: jekyllrb
+    github:  andresbecker
+    # devto: jekyll
+    # dribbble: jekyll
+    facebook: andres.becker.9
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: andres-becker
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
 description: > # this means to ignore newlines until "show_excerpts:"
   Andres Becker technical and learning notes
 url: "https://andresbecker.github.io/" # the base hostname & protocol for your site
-
-minima:
-  date_format: "%b %-d, %Y"
 
 # Build settings
 markdown: kramdown
