@@ -1,18 +1,18 @@
 # Site settings
-title: About me
-email: andres.becker@tum.de
-author: Andres Becker
+title: Andres Becker's personal page
+author:
+  name: Andres Becker
+  email: andres.becker@tum.de
+  linkedin: https://www.linkedin.com/in/andres-becker/
+  github: https://github.com/andresbecker
+  github_username: andresbecker
+
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.baseurl: "" # the subpath of your site, e.g. /blog/
+  Andres Becker technical and learning notes
 url: "https://andresbecker.github.io/" # the base hostname & protocol for your site
 
 minima:
   date_format: "%b %-d, %Y"
-
-twitter_username:
-github_username: andresbecker
 
 # Build settings
 markdown: kramdown

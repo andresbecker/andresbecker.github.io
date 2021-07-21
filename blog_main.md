@@ -7,3 +7,4 @@
 #
 layout: blog_home
 ---
+In this blog I document my learning notes, as well as technical notes of some implementations I have made. I really hope that some of what you find here will be useful to you.
