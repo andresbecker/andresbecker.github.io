@@ -7,6 +7,8 @@ author:
   github: https://github.com/andresbecker
   github_username: andresbecker
 
+show_excerpts: false # set to true to show excerpts on the homepage
+
 minima:
   date_format: "%b %-d, %Y"
 
@@ -29,6 +31,9 @@ minima:
     # microdotblog: jekyll
     # keybase: jekyll
 
+# Build settings
+#theme: minima
+
 description: > # this means to ignore newlines until "show_excerpts:"
   Andres Becker technical and learning notes
 url: "https://andresbecker.github.io/" # the base hostname & protocol for your site
@@ -38,6 +43,3 @@ markdown: kramdown
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-
-# Build settings
-#theme: minima
