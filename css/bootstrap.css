@@ -1342,6 +1342,12 @@ mark,
 a.text-primary:hover {
   color: #286090;
 }
+.text-gray {
+  color: #b3b3b3;
+}
+a.text-gray:hover {
+  color: #676767;
+}
 .text-success {
   color: #3c763d;
 }

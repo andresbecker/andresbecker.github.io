@@ -1,14 +1,46 @@
 # Site settings
-title: About me
-email: andres.becker@tum.de
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://andresbecker.github.io/" # the base hostname & protocol for your site
+title: Andres Becker's personal page
+author:
+  name: Andres Becker
+  email: andres.becker@tum.de
+  linkedin: https://www.linkedin.com/in/andres-becker/
+  github: https://github.com/andresbecker
+  github_username: andresbecker
 
-twitter_username:
-github_username: andresbecker
+show_excerpts: false # set to true to show excerpts on the homepage
+
+minima:
+  #date_format: "%b %-d, %Y"
+  date_format: "%-d.%b.%Y"
+
+  # generate social links in footer
+  social_links:
+    # twitter: jekyllrb
+    github:  andresbecker
+    # devto: jekyll
+    # dribbble: jekyll
+    facebook: andres.becker.9
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: andres-becker
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+# Build settings
+#theme: minima
+
+description: > # this means to ignore newlines until "show_excerpts:"
+  Andres Becker technical and learning notes
+url: "https://andresbecker.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-
-#theme: jekyll-theme-slate
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
