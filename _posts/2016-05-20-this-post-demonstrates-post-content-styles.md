@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: junk
+categories: Linux NVIDIA GPU TF
+date: 22-07-2021 18:00:00
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
-meta: "Springfield"
+- Andres Becker
+meta: "Ubuntu 20.04"
 ---
+
+TODO:
+Cambia el dir de apache para que lo veas
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
