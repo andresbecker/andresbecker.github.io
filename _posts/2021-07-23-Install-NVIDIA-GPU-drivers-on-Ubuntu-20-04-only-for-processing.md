@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Install TensorFlow 2.5 and NVIDIA GPU drivers on Ubuntu 20.04 only for processing (no graphics)"
 categories: Linux NVIDIA GPU TF
 date: 23-07-2021 11:00:00
