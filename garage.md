@@ -1,12 +1,10 @@
 ---
 layout: blog_page
-title: Garage for rent
+title: Garage for rent (€ 70 monthly)
 permalink: /others/garage_en.html
 ---
 
-<p style='text-align: justify;'>
-  Location
-</p>
+<h2 class="post-title">Location</h2>
 
 Bingener Str. 32, 80993 München
 
@@ -18,11 +16,12 @@ Google maps <a href="https://goo.gl/maps/YS9DEnYZ4UUDks43A">link</a>.
   <img src="../img/garage/13.jpg" width="100%">
 </p>
 
-The building is between Olympia Einkaufszentrum and Moosacher St.-Martins-Platz. Near <a href="https://goo.gl/maps/WaNeSC8CzUHArkbQ9">REWE</a> and <a href="https://goo.gl/maps/chXPobHw5m5ZgSLY7">Norma</a>.
-
 <p style='text-align: justify;'>
-  Garage specifications
+  The building is between Olympia Einkaufszentrum and Moosacher St.-Martins-Platz. Near <a href="https://goo.gl/maps/WaNeSC8CzUHArkbQ9">REWE</a> and <a href="https://goo.gl/maps/chXPobHw5m5ZgSLY7">Norma</a>.
+
 </p>
+
+<h2 class="post-title">Garage specifications</h2>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -59,7 +58,9 @@ The building is between Olympia Einkaufszentrum and Moosacher St.-Martins-Platz.
   <img src="../img/garage/1.jpg" width="100%">
 </p>
 
-The lowest point is at the garage door
+<p style='text-align: justify;'>
+  The lowest point is at the garage door
+</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -88,7 +89,9 @@ The lowest point is at the garage door
   <img src="../img/garage/7.jpg" width="100%">
 </p>
 
-The garage is perfect for small-medium cars. However, a cargo van also fits well:
+<p style='text-align: justify;'>
+  The garage is perfect for small-medium cars. However, a cargo van also fits well:
+</p>
 
 <p align="center">
   <img src="../img/garage/eg_1.jpg" width="100%">
@@ -112,23 +115,26 @@ The garage is opened with a key (no wireless control available).
   <img src="../img/garage/11.jpg" width="100%">
 </p>
 
-There is no need to enter the building, since the garage has a small door which can be opened with the same key.
+<p style='text-align: justify;'>
+  There is no need to enter the building, since the garage has a small door which can be opened with the same key.
+</p>
 
 <p align="center">
   <img src="../img/garage/9.jpg" width="100%">
 </p>
 
+<h2 class="post-title">Agreement conditions:</h2>
 
 <p style='text-align: justify;'>
-  Agreement conditions:
+  The cost is € 70 per month.
+  The contract/agreement has not a fixed period of time, although long-term agreement are prefer. To finish the agreement, a notification of one month in advance is required.
 </p>
-The contract/agreement is not for a fixed period of time, the only condition is that to finalize the agreement you must notify one month in advance. However, a long-term agreement is preferable.
+
+<h2 class="post-title">Contact details:</h2>
 
 <p style='text-align: justify;'>
-  Contact details:
+  If you are interested, you can write or call us:
 </p>
-
-If you are interested, you can write or call us:
 
 Andres Becker (only english)
 +49 1520 6019 165
