@@ -142,9 +142,7 @@ Andres Becker (only english)
 Lorena Mendez (deutsch / english)
 +49 1520 6019 157
 
-<p style='text-align: justify;'>
-  More pictures:
-</p>
+<h2 class="post-title">More pictures:</h2>
 
 <p align="center">
   <img src="../img/garage/2.jpg" width="100%">
