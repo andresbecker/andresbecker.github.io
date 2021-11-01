@@ -12,7 +12,7 @@ Bingener Str. 32, 80993 München
 
 Google maps <a href="https://goo.gl/maps/YS9DEnYZ4UUDks43A">link</a>.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.13834074858!2d11.521864416006219!3d48.18468597922735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e76f965d80dc1%3A0x26a94e8f5619af21!2sBingener%20Str.%2032%2C%2080993%20M%C3%BCnchen!5e0!3m2!1sen!2sde!4v1635781445449!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.13834074858!2d11.521864416006219!3d48.18468597922735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e76f965d80dc1%3A0x26a94e8f5619af21!2sBingener%20Str.%2032%2C%2080993%20M%C3%BCnchen!5e0!3m2!1sen!2sde!4v1635783484062!5m2!1sen!2sde" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 <p align="center">
   <img src="../img/garage/13.jpg" width="100%">
