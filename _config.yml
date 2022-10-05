@@ -2,7 +2,7 @@
 title: Andres Becker's personal page
 author:
   name: Andres Becker
-  email: andres.becker@tum.de
+  email: aabecksa@gmail.com
   linkedin: https://www.linkedin.com/in/andres-becker/
   github: https://github.com/andresbecker
   github_username: andresbecker
@@ -44,3 +44,4 @@ markdown: kramdown
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - webrick
