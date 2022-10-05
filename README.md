@@ -13,4 +13,3 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
 
- 
