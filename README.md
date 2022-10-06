@@ -2,11 +2,11 @@
 This project contians the code to build my personal page. You can see it in action on the link: [https://andresbecker.github.io](https://andresbecker.github.io/).
 
 ## About the page
-This **static web page** is created using [*Jekyll*](https://jekyllrb.com/) and the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) from [Start Bootstrap](http://startbootstrap.com). You can see original template live in action at <https://volny.github.io/creative-theme-jekyll/>.
+This **static web page** is created using [*Jekyll*](https://jekyllrb.com/) and the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) from [Start Bootstrap](http://startbootstrap.com). You can see the original template live in action at <https://volny.github.io/creative-theme-jekyll/>.
 
 ## Adapt and build this page
 
-As it is mentioned above, this is a static page. This means that all the code needs to be built beforehand in order to be displayed properly on the web browser. But don't worry, GitHub will build the code every time you push. Nevertheless, pushing every 5 mins (and cleanning the web browser cache) to see your page does not sound like a good plan to develop a web page. Instead, you can install *Jekyll* to build and publish your page directly in your computer. On *Ubuntu 22* you can do the follow:
+As it is mentioned above, this is a static page. This means that all the HTML code needs to be built beforehand in order to be displayed properly on the web browser. But don't worry, GitHub will build the code for you every time you push. Nevertheless, pushing every 5 mins (and cleanning the web browser cache) to see your page, does not sound like a good plan to develop a web page. Instead, you can install *Jekyll* to build and publish your page directly in your computer. On *Ubuntu 22* you can do the follow:
 <a name="deploy_code"></a>
 ```console
 # Clone repo
